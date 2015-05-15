@@ -1,0 +1,18 @@
+Killstreak Sounds
+
+3 Frags -> Triple Kill
+5 Frags -> Multi Kill
+6 Frags -> Rampage
+7 Frags -> Killing Spree
+9 Frags -> Dominating
+11 Frags -> Unstoppable
+13 Frags -> Mega Kill
+15 Frags -> Ultra Kill
+16 Frags -> Eagle Eye
+17 Frags -> Ownage
+18 Frags -> Ludicrouskill
+19 Frags -> Head Hunter
+20 Frags -> Whicked Sick
+21 Frags -> Monster Kill
+23 Frags -> Holy Shit
+24 Frags -> God Like
